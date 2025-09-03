@@ -24,4 +24,4 @@ Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 * Actually passing my classes 😊
 
 ## 📬 Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-5158b31a0/) or using my email, ali@mo36.ca
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-5158b31a0/) or using my email, izhan1642@gmail.com
