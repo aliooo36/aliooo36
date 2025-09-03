@@ -4,7 +4,7 @@
 
 ![Online](https://img.shields.io/badge/currently-online-brightgreen) ![School](https://img.shields.io/badge/school-🐦%20Carleton-8B0000) ![Year](https://img.shields.io/badge/year-Third-black) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mo36)
 
-Current obsession: Web hosting & VPSs! [Check out my website!](https://mo36.ca) 😊
+Current obsession: Web hosting & VPSs! [Just bought my first domain!](https://mo36.ca) 😊
 
 #### Experience:
 
