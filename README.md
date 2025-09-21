@@ -1,6 +1,7 @@
 # Hey, I'm Ali!
 
-<img width="212" height="226" alt="image" src="https://github.com/user-attachments/assets/c65f3b25-ed8e-4cb2-aa2c-0dfc2af93951" />
+<img width="148" height="158" alt="image" src="https://github.com/user-attachments/assets/c65f3b25-ed8e-4cb2-aa2c-0dfc2af93951" />
+
 
 ![Online](https://img.shields.io/badge/currently-online-brightgreen) ![School](https://img.shields.io/badge/school-🐦%20Carleton-8B0000) ![Year](https://img.shields.io/badge/year-Third-black) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aliooo36)
 
@@ -8,6 +9,7 @@ Current obsession: Web hosting & VPSs! [Just bought my first domain!](https://mo
 
 #### Experience:
 
+Incoming IT Network Development Intern at [Nokia](https://www.nokia.com);\
 Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 
 #### Designed:  
@@ -21,7 +23,10 @@ Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 #### [!] In Progress:
 * Facial Recognition with voice to execute commands (<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="15"/> / <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" width="15"/>)
 * Automated Trading Bot (<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15"/> / <img src="https://cdn.simpleicons.org/tradingview/2962FF" alt="TradingView" width="15"/>)
+* "MOOP" Unity Game (<img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" width="15"/> / <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="15"/>#)
 * Actually passing my classes 😊
+
+
 
 ## 📬 Contact me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-5158b31a0/) or using my email, izhan1642@gmail.com
