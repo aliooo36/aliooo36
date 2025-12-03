@@ -27,4 +27,4 @@ Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 
 
 ## 📬 Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-ali-5158b31a0/) or using my email, izhan1642@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-ali-5158b31a0/) or using my email, coleali336@gmail.com
