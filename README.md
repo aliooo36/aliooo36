@@ -5,6 +5,8 @@
 
 ![Online](https://img.shields.io/badge/currently-online-brightgreen) ![School](https://img.shields.io/badge/school-🐦%20Carleton-8B0000) ![Year](https://img.shields.io/badge/year-Third-black) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aliooo36)
 
+[Check out my website!](https://coleali.com)
+
 #### Experience:
 
 Incoming IT Network Development Intern at [Nokia](https://www.nokia.com);\
