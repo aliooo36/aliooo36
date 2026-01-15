@@ -9,7 +9,7 @@
 
 #### Experience:
 
-Incoming IT Network Development Intern at [Nokia](https://www.nokia.com);\
+AI IT Network Development Intern at [Nokia](https://www.nokia.com);\
 Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 
 #### Designed:  
@@ -19,11 +19,11 @@ Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
 * [dtc] Business Strategy Agent, a.k.a. Trojan Horse (<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15"/> / <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="18"/> / <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google" width="15"/>)
 * /Home Minecraft Plugin (☕)
 * n8n Google Gemini Community Node (<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="15"/> / <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="15"/> / <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="15"/>)
+* "Moop" Unity Game (<img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" width="15"/> / <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="15"/>#)
 
 #### [!] In Progress:
 * Facial Recognition with voice to execute commands (<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="15"/> / <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" width="15"/>)
 * Automated Trading Bot (<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15"/> / <img src="https://cdn.simpleicons.org/tradingview/2962FF" alt="TradingView" width="15"/>)
-* "MOOP" Unity Game (<img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" width="15"/> / <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="15"/>#)
 * Actually passing my classes 😊
 
 
