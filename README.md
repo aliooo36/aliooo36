@@ -9,8 +9,9 @@
 
 #### Experience:
 
-AI IT Network Development Intern at [Nokia](https://www.nokia.com);\
-Previous AI Technical Intern at [dtcforce](https://dtcforce.com);
+Full Stack Developer at [Prepr](https://prepr.org)\
+Previous AI IT Network Development Intern at [Nokia](https://www.nokia.com)\
+Previous AI Technical Intern at [dtcforce](https://dtcforce.com)
 
 #### Designed:  
 * [dtc] Automated AI Proposal Builder (<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="15"/> / <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15"/> / <img src="https://cdn.simpleicons.org/crewai" alt="CrewAI" width="15"/> / <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google" width="15"/>)
